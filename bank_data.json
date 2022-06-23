@@ -1,0 +1,22 @@
+[
+  {
+    "bank_name": "chase morgan",
+    "bank_code": "1111",
+    "name": "jared davie",
+    "phone_number": "8325145366",
+    "email": "jared@gmail.com",
+    "account_number": "1111",
+    "password": "3693",
+    "balance": 51000.0
+  },
+  {
+    "bank_name": "hh",
+    "bank_code": "2222",
+    "name": "chris jones",
+    "phone_number": "2814287521",
+    "email": "jones@aol.com",
+    "account_number": "2222",
+    "password": "2222",
+    "balance": 1000.0
+  }
+]
